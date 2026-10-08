@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 2 | 11.53h | 2 |
+| Week 1 | Tier 2 | 9.53h | 2 |
 
 ## Contents
 
@@ -47,7 +47,7 @@ No physical PCB traces drawn yet, but gained 80%  clarity on component selection
 
 ### 2026-10-07 – ![Screenshot 2026-10-08 001628](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/kLADEc5sK2Fovm0wktiefGOUmtv4XzPH/b51d8f759856a115e7db76b8017f79a4948248881909a8f0cb7936c496ca469e.png)
 
-**8.03h**
+**6.03h**
 
 ![Screenshot 2026-10-08 001628](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/kLADEc5sK2Fovm0wktiefGOUmtv4XzPH/b51d8f759856a115e7db76b8017f79a4948248881909a8f0cb7936c496ca469e.png)
 
